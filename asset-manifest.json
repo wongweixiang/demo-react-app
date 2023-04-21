@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/quickpay/static/css/main.e6c13ad2.css",
-    "main.js": "/quickpay/static/js/main.7640b8f5.js",
+    "main.js": "/quickpay/static/js/main.437d2fef.js",
     "static/js/787.28cb0dcd.chunk.js": "/quickpay/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/quickpay/index.html",
     "main.e6c13ad2.css.map": "/quickpay/static/css/main.e6c13ad2.css.map",
-    "main.7640b8f5.js.map": "/quickpay/static/js/main.7640b8f5.js.map",
+    "main.437d2fef.js.map": "/quickpay/static/js/main.437d2fef.js.map",
     "787.28cb0dcd.chunk.js.map": "/quickpay/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7640b8f5.js"
+    "static/js/main.437d2fef.js"
   ]
 }
